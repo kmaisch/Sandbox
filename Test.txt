@@ -1,0 +1,7 @@
+This is a example Text file with a first modification
+Additional change
+
+
+further changes to stage a commit
+
+one change notalksdjlklskjdlksj
