@@ -1,7 +1,5 @@
 This is a example Text file with a first modification
 Additional change
 
-
+git
 further changes to stage a commit
-
-one change notalksdjlklskjdlksj
