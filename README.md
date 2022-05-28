@@ -1,3 +1,2 @@
 # hello-world
-This is my personal repository for AutoHotKey Scripts
-Here I plan to store all general Autohotkey scripts I use in my daily work.
+This is my personal Sandbox repository to experiment with Git and GitHub.
