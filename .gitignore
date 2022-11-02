@@ -1,0 +1,8 @@
+#Ignore compiled exe files
+*.exe
+
+#Ignore python virtual environment
+venv/
+
+#Ignore Build folders
+docs/build/
